@@ -73,7 +73,3 @@ from  [dbo].[Warehouse_and_Retail_Sales$]
 group by [MONTH]
 
 
-sz
-
-
-select * from [dbo].['flipkart_com-ecommerce_sample$']
